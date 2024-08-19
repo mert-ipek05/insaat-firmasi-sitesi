@@ -1,0 +1,73 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder settings
+Icon?
+._*
+
+# macOS metadata files
+.Spotlight-V100
+.Trashes
+
+# macOS local trash files
+*.swp
+*.lock
+
+# macOS temporary files
+.DS_Store?
+
+# Visual Studio specific files
+.vscode/
+.vs/
+*.csproj.user
+*.csproj.temp
+*.csproj.DotSettings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if needed:
+# *.log
+# *.tlog
+# *.log.*
+# *.vspscc
+# *.vssscc
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# User-specific files
+*.rsuser
+*.rsuser.json
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/

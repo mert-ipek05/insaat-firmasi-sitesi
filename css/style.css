@@ -1,0 +1,21 @@
+.navbar {
+    background-color: var(--bs-primary-bg-subtle);
+    
+}
+
+.navbar .navbar-brand {
+    color: var(--bs-primary-text-emphasis);
+}
+
+/* Nav linkleri rengi*/
+.navbar .nav-link {
+    color: var(--bs-primary-text-emphasis);
+    
+}
+
+/* Aktif nav link stili */
+.navbar .nav-link.active {
+    font-weight: bold;
+    
+}
+
